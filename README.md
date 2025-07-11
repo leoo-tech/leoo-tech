@@ -8,7 +8,7 @@
     
 <hr />
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,angular,java,python,mysql,bootstrap,sass,dotnet&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,kubernetes,docker,linux,azure,aws&perline=5)](https://skillicons.dev) 
 <br>
 <hr />
  
